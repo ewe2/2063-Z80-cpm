@@ -1,6 +1,2 @@
-*.swp
-*.bin
-*.lst
-*.sym
-mkfs
-2063-Z80-cpm.zip
+# backups
+*~
